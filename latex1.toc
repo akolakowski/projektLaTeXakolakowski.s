@@ -1,0 +1,12 @@
+\select@language {polish}
+\select@language {polish}
+\contentsline {section}{\numberline {1}Resovia}{2}
+\contentsline {section}{\numberline {2}Historia}{2}
+\contentsline {section}{\numberline {3}Bilans sezon po sezonie}{4}
+\contentsline {subsection}{\numberline {3.1}Sukcesy}{5}
+\contentsline {section}{\numberline {4}Kadra}{5}
+\contentsline {subsection}{\numberline {4.1}Trenerzy}{6}
+\contentsline {subsection}{\numberline {4.2}Obcokrajowcy w zespole}{7}
+\contentsline {section}{\numberline {5}Klub kibica}{7}
+\contentsline {section}{\numberline {6}Sekcja na potrzeby zaliczenia}{7}
+\contentsline {section}{\numberline {7}Bibliografia}{8}
